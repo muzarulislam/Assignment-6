@@ -1,0 +1,109 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+/* Head-Section */
+.head h2{
+    text-align: center;
+    background-color: #0b1979;
+    font-family: "Montserrat", sans-serif;
+    font-style: italic;
+    font-weight: 400;
+    color: #fff;
+    padding: 10px 0;
+}
+sup{
+    color: #954062;
+}
+sub{
+    color: #b0d6fc;
+    
+}
+.head h3{
+    background-color: #047504;
+    color: #fff;
+    padding: 22px;
+    font-family: "Yellowtail", cursive;
+    text-align: center;
+    font-weight: lighter;
+    font-style: italic;
+    font-size: 28px;
+}
+.home img{
+    text-align: center;
+    background-size: cover;
+}
+/* About-Section */
+.about h2{
+    background-color: #834646;
+    padding: 15px;
+    text-align: center;
+    font-family: "Yellowtail", cursive;
+    font-weight: 500;
+    font-size: 35px;
+}
+.about p{
+    text-align: center;
+    font-family: "Open Sans", sans-serif;
+    padding-top: 20px 0px;
+    line-height: 28px;
+}
+/* Service-Section */
+.service h2{
+    background-color: #297a48;
+    text-align: center;
+    font-family: "Montserrat", sans-serif;
+    font-style: italic;
+    font-size: 40px;
+    font-weight: 100;
+    padding: 10px 0px;
+}
+.box{
+    text-align: center;
+    padding-bottom: 20px;
+    background-color: #eeeeee;
+}
+.display-5{
+    font-family: "Montserrat", sans-serif;
+    font-weight: 600;
+}
+/* Contact-Section */
+.contact{
+    background-color: #0d6efd;
+    text-align: center;
+    font-family: "Roboto", sans-serif;
+    font-size: 40px;
+    font-weight: 300;
+}
+.con{
+    text-align: center;
+    background-color: #eeeeee;
+    padding-bottom: 15px;
+    padding-top: 20px;
+}
+/* Sub-Footer-Section */
+.sub-footer{
+    background-color: #4f84c4;
+    text-align: center;
+    padding: 20px 0px;
+    color: white;
+}
+h4{
+    font-family: "Roboto", sans-serif;
+    font-weight: 800;
+}
+.s{
+    font-family: "Yellowtail", cursive;
+    font-style: italic;
+    font-weight: 700;
+}
+/* Footer-Section */
+.footer{
+    text-align: center;
+    background-color: black;
+    font-family: "Roboto", sans-serif;
+    color: white;
+    font-size: 20px;
+    padding: 20px 0px;
+    padding-top: -10px;
+}
